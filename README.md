@@ -1,15 +1,15 @@
 # EngIntersect: The Intersection Forge
 
 
-███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗ ██████╗████████╗
-██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝╚══██╔══╝
-█████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║   ██║   █████╗  ██████╔╝███████╗█████╗  ██║        ██║
-██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║        ██║
-███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║   ██║   ███████╗██║  ██║███████║███████╗╚██████╗   ██║
-╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝   ╚═╝
+███████╗ ███╗   ██╗  ██████╗  ██╗ ███╗   ██╗ ████████╗ ███████╗ ██████╗  ███████╗ ███████╗  ██████╗ ████████╗
+██╔════╝ ████╗  ██║ ██╔════╝  ██║ ████╗  ██║ ╚══██╔══╝ ██╔════╝ ██╔══██╗ ██╔════╝ ██╔════╝ ██╔════╝ ╚══██╔══╝
+█████╗   ██╔██╗ ██║ ██║  ███╗ ██║ ██╔██╗ ██║    ██║    █████╗   ██████╔╝ ███████╗ █████╗  ██║         ██║
+██╔══╝   ██║╚██╗██║ ██║   ██║ ██║ ██║╚██╗██║    ██║    ██╔══╝   ██╔══██╗ ╚════██║ ██╔══╝   ██║         ██║
+███████╗ ██║ ╚████║ ╚██████╔╝ ██║ ██║ ╚████║    ██║    ███████╗ ██║  ██║ ███████║ ███████╗ ╚██████╗    ██║
+╚══════╝ ╚═╝  ╚═══╝  ╚═════╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝  ╚═════╝    ╚═╝
 
 ## Vision & Roadmap
-EngIntersect is **“The Intersection Forge”**, focusing on **glue code**, **adapters**, **hooks**, **micro-integrations**, **DevOps (CI/CD with GitHub Actions)**, **clean architecture**, **containerization (Docker)**, **tests (pytest/unit/integration)**, and **security basics (headers, env patterns)**. Every module is **plug-and-play** for real systems—building toward mastery **without revealing the full path ahead**.
+EngIntersect is **“The Intersection Forge”**, focusing on **glue code**, **adapters**, **hooks**, **micro-integrations**, **DevOps **, **clean architecture**, **containerization**, **tests**, and **security basics **. Every module is **plug-and-play** for real systems—building toward mastery **without revealing the full path ahead**.
 
 - **Ignition Phase** – Establish core modules, integrate existing patterns and best-practices, with beginner-friendly setups.
 - **Foundations Phase** – Deepen AI-cyber intersections, add robust DevOps pipelines, and roll out demos.
@@ -17,14 +17,6 @@ EngIntersect is **“The Intersection Forge”**, focusing on **glue code**, **a
 - **Scaling Phase** – Advance integrations, release versioned modules, invite collaborators.
 - **Mastery Phase** – Evolve into a full ecosystem of reusable vaults, ready for showcases.
 - **Victory Phase** – Launch impact-driven products, measure open-source contri## Vision & Roadmap
-EngIntersect is **“The Intersection Forge”**, focusing on **glue code**, **adapters**, **hooks**, **micro-integrations**, **DevOps (CI/CD with GitHub Actions)**, **clean architecture**, **containerization (Docker)**, **tests (pytest/unit/integration)**, and **security basics (headers, env patterns)**. Every module is **plug-and-play** for real systems—building toward mastery **without revealing the full path ahead**.
-
-- **Ignition Phase** – Establish core modules, integrate existing patterns and best-practices, with beginner-friendly setups.
-- **Foundations Phase** – Deepen AI-cyber intersections, add robust DevOps pipelines, and roll out demos.
-- **Live Intersections Phase** – Deploy prototypes, weave in JS elements, emphasize **African/SDG themes**.
-- **Scaling Phase** – Advance integrations, release versioned modules, invite collaborators.
-- **Mastery Phase** – Evolve into a full ecosystem of reusable vaults, ready for showcases.
-- **Victory Phase** – Launch impact-driven products, measure open-source contributions.
 
 ## Quickstart
 1. **Clone the Repo**:  
