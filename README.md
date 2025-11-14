@@ -1,13 +1,4 @@
 # EngIntersect: The Intersection Forge
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║  ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗  ║
-║  ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝  ║
-║  █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║   ██║   █████╗  ██████╔╝███████╗  ║
-║  ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗╚════██║  ║
-║  ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║   ██║   ███████╗██║  ██║███████║  ║
-║  ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝  ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
 ## Vision & Roadmap
 EngIntersect is **“The Intersection Forge”**, focusing on **glue code**, **adapters**, **hooks**, **micro-integrations**, **DevOps **, **clean architecture**, **containerization**, **tests**, and **security basics **. Every module is **plug-and-play** for real systems—building toward mastery **without revealing the full path ahead**.
 
