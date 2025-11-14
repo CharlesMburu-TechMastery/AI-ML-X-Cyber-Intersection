@@ -58,6 +58,9 @@ EngIntersect/
 ├── .gitignore              # Ignored files
 └── README.md               # This file
 
+Tech Stack
+Frontend / Backend	DevOps / CI/CD	Tools / Libraries	Testing
+
 	
 Contribution & Updates
 
