@@ -58,24 +58,6 @@ EngIntersect/
 ├── .gitignore              # Ignored files
 └── README.md               # This file
 
-Featured Modules
-Module	Description	Tech	Demo
-HealthCheck API	Simple API to monitor system health	
-	Link
-
-Auth-Bridge	Adapter for secure authentication between services	
-	Link
-
-AI-Cyber Hook	Connects AI analysis to cybersecurity events	
-	Link
-
-More modules will be added gradually as part of the 2025–2030 ModuleVault strategy.
-
-Tech Stack
-Frontend / Backend	DevOps / CI/CD	Tools / Libraries	Testing
-
-	
-	
 	
 Contribution & Updates
 
