@@ -1,61 +1,106 @@
 # EngIntersect: The Intersection Forge
-## Vision & Roadmap
-EngIntersect is **“The Intersection Forge”**, focusing on **glue code**, **adapters**, **hooks**, **micro-integrations**, **DevOps **, **clean architecture**, **containerization**, **tests**, and **security basics **. Every module is **plug-and-play** for real systems—building toward mastery **without revealing the full path ahead**.
 
-- **Ignition Phase** – Establish core modules, integrate existing patterns and best-practices, with beginner-friendly setups.
-- **Foundations Phase** – Deepen AI-cyber intersections, add robust DevOps pipelines, and roll out demos.
-- **Live Intersections Phase** – Deploy prototypes, weave in JS elements, emphasize **African/SDG themes**.
-- **Scaling Phase** – Advance integrations, release versioned modules, invite collaborators.
-- **Mastery Phase** – Evolve into a full ecosystem of reusable vaults, ready for showcases.
-- **Victory Phase** – Launch impact-driven products, measure open-source contri## Vision & Roadmap
+███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗ ██████╗████████╗
+██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝╚══██╔══╝
+█████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║   ██║   █████╗  ██████╔╝███████╗█████╗  ██║        ██║
+██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║        ██║
+███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║   ██║   ███████╗██║  ██║███████║███████╗╚██████╗   ██║
+╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝   ╚═╝
+
+---
+
+## Vision & Roadmap
+
+**EngIntersect = “The Intersection Forge”**  
+
+Our mission is to combine **AI, Cybersecurity, and Software Engineering** into reusable, plug-and-play modules, with **DevOps, containerization, testing, and security best-practices** baked in. Every module is designed to be integrated into real-world systems and scaled over time.  
+
+### Roadmap (2025–2030)
+- **Ignition Phase (2025–2026)**: Establish core modules, integrate existing patterns, and implement beginner-friendly setups.  
+- **Foundations Phase (2026–2027)**: Deepen AI-cyber intersections, add robust CI/CD pipelines, deploy first demos.  
+- **Live Intersections Phase (2027–2028)**: Deploy prototypes, integrate JS/React elements, emphasize African & SDG themes.  
+- **Scaling Phase (2028–2029)**: Advance integrations, release versioned modules, invite collaborators.  
+- **Mastery Phase (2029–2030)**: Build a full ecosystem of reusable ModuleVaults, ready for showcases.  
+- **Victory Phase (2030)**: Launch impact-driven products and measure open-source contribution and real-world impact.
+
+---
 
 ## Quickstart
-1. **Clone the Repo**:  
-   ```bash
-   git clone https://github.com/CharlesKariuki-001/EngIntersect.gitbutions.
 
-##Setup Environment:
+### Clone the Repo
+```bash
+git clone https://github.com/CharlesKariuki-001/EngIntersect.git
 cd EngIntersect
-pip install poetry && poetry install
 
-##Alternative:
-Run First Module (HealthCheck API):
+Setup Environment
+# Using Poetry
+pip install poetry
+poetry install
+
+Run First Module (HealthCheck API)
 cd intersections/healthcheck-api
 poetry run uvicorn main:app --reload
 
-##Structure Overview
+
+Endpoints:
+
+GET / → Welcome message
+
+GET /health → System health status
+
+Repository Structure
 EngIntersect/
-├── intersections/          # Core modules: Self-contained, reusable intersections.
-│   └── healthcheck-api/    # Example: Simple API for system health checks.
-├── patterns/               # Design patterns for clean, scalable code.
-├── best-practices/         # Guidelines for security, coding, and DevOps.
-├── architectures/          # High-level diagrams and blueprints.
-├── tests/                  # Shared testing utilities and examples.
-├── ai-security/            # Evolved: AI models for cyber threats.
-├── tools/                  # Evolved: Scripts for data/dev ops.
-├── docs/                   # Evolved: Research and notes.
-├── datasets/               # Evolved: Sample data for modules.
-├── .github/                # Workflows for CI/CD.
-├── CHANGELOG.md            # Version history.
-├── .gitignore              # Ignore files.
-└── README.md               # This file.
+├── intersections/          # Core modules: self-contained, reusable intersections
+│   └── healthcheck-api/    # Example: HealthCheck API module
+├── patterns/               # Design patterns for clean, scalable code
+├── best-practices/         # Guidelines for coding, security, and DevOps
+├── architectures/          # High-level diagrams and blueprints
+├── tests/                  # Shared testing utilities and examples
+├── ai-security/            # AI models for cybersecurity tasks
+├── tools/                  # Scripts for data processing and DevOps
+├── docs/                   # Research, notes, and guides
+├── datasets/               # Sample datasets for modules
+├── .github/                # GitHub Actions workflows for CI/CD
+├── CHANGELOG.md            # Version history and updates
+├── .gitignore              # Ignored files
+└── README.md               # This file
 
-## Tech Stack
-Python
-JavaScript
-FastAPI
-pytest
-Docker
-GitHub Actions
-More...
+Featured Modules
+Module	Description	Tech	Demo
+HealthCheck API	Simple API to monitor system health	
+	Link
 
-##Contribute/Updates
-.PR Guidelines: Fork → git checkout -b feature/new-module → Push → Open PR.
-.Versioning Rules: Use semantic versioning (1.0.0). Update CHANGELOG.md: MAJOR.MINOR.PATCH.
+Auth-Bridge	Adapter for secure authentication between services	
+	Link
 
-## Footer
-- **Social Links**: [X (Twitter)](https://x.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
-- 🇰🇪 Proudly Kenyan – Focused on African innovation and SDG impact.
-- [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+AI-Cyber Hook	Connects AI analysis to cybersecurity events	
+	Link
 
-**⭐ Star this if you’re building too!**
+More modules will be added gradually as part of the 2025–2030 ModuleVault strategy.
+
+Tech Stack
+Frontend / Backend	DevOps / CI/CD	Tools / Libraries	Testing
+
+	
+	
+	
+Contribution & Updates
+
+PR Guidelines:
+Fork → git checkout -b feature/new-module → Push → Open PR
+
+Versioning: Semantic versioning MAJOR.MINOR.PATCH
+
+CHANGELOG.md: Update on each new feature or fix
+
+Weekly Recap: Log updates in README or Notion
+
+Footer
+
+Social Links: X
+ | LinkedIn
+ | Email
+
+🇰🇪 Proudly Kenyan – Focused on African innovation and SDG impact
+
+⭐ Star this repo if you’re building too!
