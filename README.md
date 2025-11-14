@@ -1,12 +1,5 @@
 # EngIntersect: The Intersection Forge
 
-███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗ ██████╗████████╗
-██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝╚══██╔══╝
-█████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║   ██║   █████╗  ██████╔╝███████╗█████╗  ██║        ██║
-██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║        ██║
-███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║   ██║   ███████╗██║  ██║███████║███████╗╚██████╗   ██║
-╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝   ╚═╝
-
 ---
 
 ## Vision & Roadmap
@@ -15,13 +8,13 @@
 
 Our mission is to combine **AI, Cybersecurity, and Software Engineering** into reusable, plug-and-play modules, with **DevOps, containerization, testing, and security best-practices** baked in. Every module is designed to be integrated into real-world systems and scaled over time.  
 
-### Roadmap (2025–2030)
-- **Ignition Phase (2025–2026)**: Establish core modules, integrate existing patterns, and implement beginner-friendly setups.  
-- **Foundations Phase (2026–2027)**: Deepen AI-cyber intersections, add robust CI/CD pipelines, deploy first demos.  
-- **Live Intersections Phase (2027–2028)**: Deploy prototypes, integrate JS/React elements, emphasize African & SDG themes.  
-- **Scaling Phase (2028–2029)**: Advance integrations, release versioned modules, invite collaborators.  
-- **Mastery Phase (2029–2030)**: Build a full ecosystem of reusable ModuleVaults, ready for showcases.  
-- **Victory Phase (2030)**: Launch impact-driven products and measure open-source contribution and real-world impact.
+### Roadmap
+- **Ignition Phase **: Establish core modules, integrate existing patterns, and implement beginner-friendly setups.  
+- **Foundations Phase **: Deepen AI-cyber intersections, add robust CI/CD pipelines, deploy first demos.  
+- **Live Intersections Phase **: Deploy prototypes, integrate JS/React elements, emphasize African & SDG themes.  
+- **Scaling Phase **: Advance integrations, release versioned modules, invite collaborators.  
+- **Mastery Phase **: Build a full ecosystem of reusable ModuleVaults, ready for showcases.  
+- **Victory Phase **: Launch impact-driven products and measure open-source contribution and real-world impact.
 
 ---
 
